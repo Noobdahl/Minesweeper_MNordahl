@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\bin\Debug\net7.0\Minesweeper.exe
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\bin\Debug\net7.0\Minesweeper.deps.json
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\bin\Debug\net7.0\Minesweeper.runtimeconfig.json
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\bin\Debug\net7.0\Minesweeper.dll
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\bin\Debug\net7.0\Minesweeper.pdb
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\obj\Debug\net7.0\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\obj\Debug\net7.0\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\obj\Debug\net7.0\Minesweeper.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\obj\Debug\net7.0\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\obj\Debug\net7.0\Minesweeper.dll
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\obj\Debug\net7.0\refint\Minesweeper.dll
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\obj\Debug\net7.0\Minesweeper.pdb
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\obj\Debug\net7.0\Minesweeper.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Dokument\Project\SchneiderElectric\Uppgift\Minesweeper 2\Minesweeper\obj\Debug\net7.0\ref\Minesweeper.dll
