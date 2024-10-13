@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Dokument\\Project\\SchneiderElectric\\Uppgift\\Minesweeper 2\\Minesweeper\\Minesweeper.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Dokument\\Project\\SchneiderElectric\\Uppgift\\Minesweeper_MNordahl\\Minesweeper\\Minesweeper.csproj",
       "projectName": "Minesweeper",
-      "projectPath": "C:\\Users\\micha\\OneDrive\\Dokument\\Project\\SchneiderElectric\\Uppgift\\Minesweeper 2\\Minesweeper\\Minesweeper.csproj",
+      "projectPath": "C:\\Users\\micha\\OneDrive\\Dokument\\Project\\SchneiderElectric\\Uppgift\\Minesweeper_MNordahl\\Minesweeper\\Minesweeper.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\OneDrive\\Dokument\\Project\\SchneiderElectric\\Uppgift\\Minesweeper 2\\Minesweeper\\obj\\",
+      "outputPath": "C:\\Users\\micha\\OneDrive\\Dokument\\Project\\SchneiderElectric\\Uppgift\\Minesweeper_MNordahl\\Minesweeper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

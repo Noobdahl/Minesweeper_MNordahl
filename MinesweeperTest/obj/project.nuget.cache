@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RxdcMtqe3Y0=",
+  "dgSpecHash": "c1ojfw51qgY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\OneDrive\\Dokument\\Project\\SchneiderElectric\\Uppgift\\Minesweeper 2\\MinesweeperTest\\MinesweeperTest.csproj",
+  "projectFilePath": "C:\\Users\\micha\\OneDrive\\Dokument\\Project\\SchneiderElectric\\Uppgift\\Minesweeper_MNordahl\\MinesweeperTest\\MinesweeperTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.codecoverage\\17.7.2\\microsoft.codecoverage.17.7.2.nupkg.sha512",
